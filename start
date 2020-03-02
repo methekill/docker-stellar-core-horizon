@@ -82,7 +82,7 @@ function process_args() {
     export HISTORY_ARCHIVE_URLS="https://history.stellar.org/prd/core-live/core_live_001"
     ;;
 	standalone)
-    export NETWORK_PASSPHRASE="Standalone Network ; February 2017"
+    export NETWORK_PASSPHRASE="Arunika Network ; February 2020"
     # h1570ry - we'll start a webserver connected to history directory later on
     export HISTORY_ARCHIVE_URLS="http://localhost:1570"
     ;;
